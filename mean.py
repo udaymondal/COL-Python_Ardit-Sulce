@@ -5,3 +5,9 @@ length = len(student_marks);
 
 mean = marksSum / length;
 print(mean);
+
+
+# max and min of student
+
+print(max(student_marks));
+print(min(student_marks));
